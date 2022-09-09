@@ -1,0 +1,15 @@
+C:\УЧЕБА\СSharp\Home_work_9\Task_066\bin\Debug\net6.0\Task_066.exe
+C:\УЧЕБА\СSharp\Home_work_9\Task_066\bin\Debug\net6.0\Task_066.deps.json
+C:\УЧЕБА\СSharp\Home_work_9\Task_066\bin\Debug\net6.0\Task_066.runtimeconfig.json
+C:\УЧЕБА\СSharp\Home_work_9\Task_066\bin\Debug\net6.0\Task_066.dll
+C:\УЧЕБА\СSharp\Home_work_9\Task_066\bin\Debug\net6.0\Task_066.pdb
+C:\УЧЕБА\СSharp\Home_work_9\Task_066\obj\Debug\net6.0\Task_066.csproj.AssemblyReference.cache
+C:\УЧЕБА\СSharp\Home_work_9\Task_066\obj\Debug\net6.0\Task_066.GeneratedMSBuildEditorConfig.editorconfig
+C:\УЧЕБА\СSharp\Home_work_9\Task_066\obj\Debug\net6.0\Task_066.AssemblyInfoInputs.cache
+C:\УЧЕБА\СSharp\Home_work_9\Task_066\obj\Debug\net6.0\Task_066.AssemblyInfo.cs
+C:\УЧЕБА\СSharp\Home_work_9\Task_066\obj\Debug\net6.0\Task_066.csproj.CoreCompileInputs.cache
+C:\УЧЕБА\СSharp\Home_work_9\Task_066\obj\Debug\net6.0\Task_066.dll
+C:\УЧЕБА\СSharp\Home_work_9\Task_066\obj\Debug\net6.0\refint\Task_066.dll
+C:\УЧЕБА\СSharp\Home_work_9\Task_066\obj\Debug\net6.0\Task_066.pdb
+C:\УЧЕБА\СSharp\Home_work_9\Task_066\obj\Debug\net6.0\Task_066.genruntimeconfig.cache
+C:\УЧЕБА\СSharp\Home_work_9\Task_066\obj\Debug\net6.0\ref\Task_066.dll
